@@ -1,4 +1,6 @@
-Alberto Rey
+## Alberto Rey
+
+<img src="https://github.com/Renz17/Images/blob/main/img/PXL_20220928_212013084_polarr.jpg" width="128"/>
 
 - 📫 How to reach me **ajrey1282@gmail.com**
 
