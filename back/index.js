@@ -12,7 +12,7 @@ const app = express();
 const serverSocket = http.createServer(app);
 const io = new Server(serverSocket, {
   cors: {
-    origin: ["http://localhost:5173", ""],
+    origin: ["http://localhost:5173", "https://kuepa-edu.vercel.app/"],
     methods: ["GET", "POST", "PATCH", "PUT", "DELETE"]
   }  
 });

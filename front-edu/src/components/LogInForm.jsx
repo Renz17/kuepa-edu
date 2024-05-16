@@ -83,7 +83,7 @@ function LogInForm() {
           className="shadow bg-[#f97316] hover:bg-[#c2410c] focus:shadow-outline focus:outline-none text-white font-bold py-2 px-4 rounded mt-6"
           type="submit"
         >
-          Log In
+          Iniciar Sesion
         </button>
       </div>
     </form>
