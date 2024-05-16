@@ -9,6 +9,7 @@ Alberto Rey
 <a href="https://www.linkedin.com/in/renz17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Renz17" height="30" width="40" /></a>
 
 </p>
+
 ## Run Proyect
 
 frontend project run
